@@ -1,4 +1,4 @@
-ZendSkeletonApplication test for git
+ZendSkeletonApplication test for ARTHUR
 =======================
 
 Introduction
