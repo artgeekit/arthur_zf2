@@ -1,4 +1,4 @@
-ZendSkeletonApplication art
+ZendSkeletonApplication test for git
 =======================
 
 Introduction
