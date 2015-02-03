@@ -1,4 +1,4 @@
-ZendSkeletonApplication test for ARTHUR test from home
+ZendSkeletonApplication test for ARTHUR
 =======================
 
 Introduction
